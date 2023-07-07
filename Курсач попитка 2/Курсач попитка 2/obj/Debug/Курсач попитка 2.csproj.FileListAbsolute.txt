@@ -1,0 +1,69 @@
+D:\Курсач\Попитка 2\Курсач попитка 2\Курсач попитка 2\bin\Debug\Курсач попитка 2.exe.config
+D:\Курсач\Попитка 2\Курсач попитка 2\Курсач попитка 2\bin\Debug\Курсач попитка 2.exe
+D:\Курсач\Попитка 2\Курсач попитка 2\Курсач попитка 2\bin\Debug\Курсач попитка 2.pdb
+D:\Курсач\Попитка 2\Курсач попитка 2\Курсач попитка 2\obj\Debug\Курсач попитка 2.csproj.AssemblyReference.cache
+D:\Курсач\Попитка 2\Курсач попитка 2\Курсач попитка 2\obj\Debug\Курсач попитка 2.csproj.SuggestedBindingRedirects.cache
+D:\Курсач\Попитка 2\Курсач попитка 2\Курсач попитка 2\obj\Debug\Курсач_попитка_2.Properties.Resources.resources
+D:\Курсач\Попитка 2\Курсач попитка 2\Курсач попитка 2\obj\Debug\Курсач попитка 2.csproj.GenerateResource.cache
+D:\Курсач\Попитка 2\Курсач попитка 2\Курсач попитка 2\obj\Debug\Курсач попитка 2.csproj.CoreCompileInputs.cache
+D:\Курсач\Попитка 2\Курсач попитка 2\Курсач попитка 2\obj\Debug\Курсач попитка 2.exe
+D:\Курсач\Попитка 2\Курсач попитка 2\Курсач попитка 2\obj\Debug\Курсач попитка 2.pdb
+D:\Курсач\Попитка 2\Курсач попитка 2\Курсач попитка 2\bin\Debug\Bunifu.Charts.WinForms.xml
+D:\Курсач\Попитка 2\Курсач попитка 2\Курсач попитка 2\bin\Debug\Bunifu.Dataviz.WinForms.xml
+D:\Курсач\Попитка 2\Курсач попитка 2\Курсач попитка 2\bin\Debug\Bunifu.UI.WinForms.xml
+D:\Курсач\Попитка 2\Курсач попитка 2\Курсач попитка 2\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\Курсач\Попитка 2\Курсач попитка 2\Курсач попитка 2\bin\Debug\GalaSoft.MvvmLight.xml
+D:\Курсач\Попитка 2\Курсач попитка 2\Курсач попитка 2\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+D:\Курсач\Попитка 2\Курсач попитка 2\Курсач попитка 2\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+D:\Курсач\Попитка 2\Курсач попитка 2\Курсач попитка 2\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Курсач\Попитка 2\Курсач попитка 2\Курсач попитка 2\bin\Debug\Microsoft.Win32.Registry.xml
+D:\Курсач\Попитка 2\Курсач попитка 2\Курсач попитка 2\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\Курсач\Попитка 2\Курсач попитка 2\Курсач попитка 2\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\Курсач\Попитка 2\Курсач попитка 2\Курсач попитка 2\bin\Debug\Newtonsoft.Json.xml
+D:\Курсач\Попитка 2\Курсач попитка 2\Курсач попитка 2\bin\Debug\RestSharp.xml
+D:\Курсач\Попитка 2\Курсач попитка 2\Курсач попитка 2\bin\Debug\System.Buffers.xml
+D:\Курсач\Попитка 2\Курсач попитка 2\Курсач попитка 2\bin\Debug\System.CodeDom.xml
+D:\Курсач\Попитка 2\Курсач попитка 2\Курсач попитка 2\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Курсач\Попитка 2\Курсач попитка 2\Курсач попитка 2\bin\Debug\System.Data.Odbc.xml
+D:\Курсач\Попитка 2\Курсач попитка 2\Курсач попитка 2\bin\Debug\System.Data.OleDb.xml
+D:\Курсач\Попитка 2\Курсач попитка 2\Курсач попитка 2\bin\Debug\System.Data.SqlClient.xml
+D:\Курсач\Попитка 2\Курсач попитка 2\Курсач попитка 2\bin\Debug\System.Diagnostics.EventLog.xml
+D:\Курсач\Попитка 2\Курсач попитка 2\Курсач попитка 2\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\Курсач\Попитка 2\Курсач попитка 2\Курсач попитка 2\bin\Debug\System.Drawing.Common.xml
+D:\Курсач\Попитка 2\Курсач попитка 2\Курсач попитка 2\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\Курсач\Попитка 2\Курсач попитка 2\Курсач попитка 2\bin\Debug\System.IO.Packaging.xml
+D:\Курсач\Попитка 2\Курсач попитка 2\Курсач попитка 2\bin\Debug\System.IO.Ports.xml
+D:\Курсач\Попитка 2\Курсач попитка 2\Курсач попитка 2\bin\Debug\System.Memory.xml
+D:\Курсач\Попитка 2\Курсач попитка 2\Курсач попитка 2\bin\Debug\System.Numerics.Vectors.xml
+D:\Курсач\Попитка 2\Курсач попитка 2\Курсач попитка 2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Курсач\Попитка 2\Курсач попитка 2\Курсач попитка 2\bin\Debug\System.Security.AccessControl.xml
+D:\Курсач\Попитка 2\Курсач попитка 2\Курсач попитка 2\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\Курсач\Попитка 2\Курсач попитка 2\Курсач попитка 2\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\Курсач\Попитка 2\Курсач попитка 2\Курсач попитка 2\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\Курсач\Попитка 2\Курсач попитка 2\Курсач попитка 2\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\Курсач\Попитка 2\Курсач попитка 2\Курсач попитка 2\bin\Debug\System.Security.Permissions.xml
+D:\Курсач\Попитка 2\Курсач попитка 2\Курсач попитка 2\bin\Debug\System.Security.Principal.Windows.xml
+D:\Курсач\Попитка 2\Курсач попитка 2\Курсач попитка 2\bin\Debug\System.ServiceModel.Syndication.xml
+D:\Курсач\Попитка 2\Курсач попитка 2\Курсач попитка 2\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\Курсач\Попитка 2\Курсач попитка 2\Курсач попитка 2\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\Курсач\Попитка 2\Курсач попитка 2\Курсач попитка 2\bin\Debug\System.Threading.AccessControl.xml
+D:\Курсач\Попитка 2\Курсач попитка 2\Курсач попитка 2\bin\Debug\YamlDotNet.xml
+D:\Курсач\Попитка 2\Курсач попитка 2\Курсач попитка 2\obj\Debug\Курсач попитка 2.csproj.Fody.CopyLocal.cache
+D:\Курсач\Попитка 2\Курсач попитка 2\Курсач попитка 2\obj\Debug\Курсач попитка 2.csproj.CopyComplete
+D:\Курсач\Попитка 2\Курсач попитка 2\Курсач попитка 2\obj\Debug\Курсач_попитка_2.Famousplaces.resources
+D:\Курсач\Попитка 2\Курсач попитка 2\Курсач попитка 2\obj\Debug\Курсач_попитка_2.AreushuretoClose.resources
+D:\Курсач\Попитка 2\Курсач попитка 2\Курсач попитка 2\obj\Debug\Курсач_попитка_2.Login.resources
+D:\Курсач\Попитка 2\Курсач попитка 2\Курсач попитка 2\obj\Debug\Курсач_попитка_2.Registration.resources
+D:\Курсач\Попитка 2\Курсач попитка 2\Курсач попитка 2\bin\Debug\mongocrypt.dll
+D:\Курсач\Попитка 2\Курсач попитка 2\Курсач попитка 2\bin\Debug\AWSSDK.Core.xml
+D:\Курсач\Попитка 2\Курсач попитка 2\Курсач попитка 2\bin\Debug\AWSSDK.SecurityToken.xml
+D:\Курсач\Попитка 2\Курсач попитка 2\Курсач попитка 2\bin\Debug\DnsClient.xml
+D:\Курсач\Попитка 2\Курсач попитка 2\Курсач попитка 2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Курсач\Попитка 2\Курсач попитка 2\Курсач попитка 2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Курсач\Попитка 2\Курсач попитка 2\Курсач попитка 2\bin\Debug\MongoDB.Bson.xml
+D:\Курсач\Попитка 2\Курсач попитка 2\Курсач попитка 2\bin\Debug\MongoDB.Driver.xml
+D:\Курсач\Попитка 2\Курсач попитка 2\Курсач попитка 2\bin\Debug\MongoDB.Driver.Core.xml
+D:\Курсач\Попитка 2\Курсач попитка 2\Курсач попитка 2\bin\Debug\Snappier.xml
+D:\Курсач\Попитка 2\Курсач попитка 2\Курсач попитка 2\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Курсач\Попитка 2\Курсач попитка 2\Курсач попитка 2\obj\Debug\Курсач_попитка_2.Adding.resources
+D:\Курсач\Попитка 2\Курсач попитка 2\Курсач попитка 2\obj\Debug\Курсач_попитка_2.CollData.resources
